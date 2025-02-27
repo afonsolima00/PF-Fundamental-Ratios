@@ -3,7 +3,7 @@ import pandas as pd
 import time
 
 # Replace with your actual Alpha Vantage API key (sign up at https://www.alphavantage.co/)
-API_KEY = 'CBLJTFA6885VIHMF'
+API_KEY = 'INSERT_YOUR_API_KEY'
 
 # Define companies in the technology sector
 companies = ['AAPL', 'MSFT', 'GOOGL']
