@@ -1,3 +1,0 @@
-# Description
-
-Build a Python script that fetches one key fundamental ratio (e.g., price-to-earnings) plus one revenue metric for about three companies in a specific sector from a free API. Store both the metrics and the short-term (7–14 days) price moves in a CSV, then calculate whether changes in these fundamentals correlate with any immediate price movement over that period. Conclude with a short summary of any patterns or signals you observe. This complements your existing coding and research focus, can hint at profitable trading ideas, and remains aligned with tasks you typically favor.
